@@ -1,0 +1,132 @@
+Design a modern web dashboard UI/UX for an IoT Smart Farm Monitoring and Management System.
+
+Platform:
+Responsive web dashboard for desktop and tablet.
+
+Design Style:
+Modern SaaS dashboard, clean minimal interface, agriculture technology theme.
+Use green and earthy colors to represent farming and environment monitoring.
+Use card-based layouts and data visualization charts.
+
+Main Actors:
+- Admin
+- Operator
+
+Core System Features:
+
+1. Authentication
+Login and logout system.
+Secure login page with email and password.
+User profile and logout option in the top navigation bar.
+
+2. Dashboard Overview
+Main dashboard displaying:
+- Overall farm status
+- Summary of sensor readings (temperature, humidity, soil moisture, light intensity)
+- Device status (online/offline)
+- Alert notifications
+- Quick statistics for all zones
+
+3. Zone Management
+Farm divided into multiple zones.
+Each zone represents a physical area of the farm.
+
+Zone features:
+- List of zones
+- Zone overview
+- Devices and sensors in each zone
+- Environmental statistics per zone
+
+4. Device Monitoring
+Detailed page showing devices in each zone.
+
+Features include:
+- List of devices
+- Device status (active, offline)
+- Sensor values
+- Device control panel
+- Device detail page
+
+5. Sensor Monitoring
+Real-time monitoring of sensor data:
+- Temperature
+- Humidity
+- Soil moisture
+- Light intensity
+
+Use charts and graphs to visualize historical and real-time data.
+
+6. Automation Scheduling
+Automation system to control farm devices.
+
+Features:
+- Create automatic schedules
+- Daily or weekly schedules
+- Auto control irrigation systems or devices
+- Schedule management dashboard
+
+7. Threshold Configuration and Alerts
+Users can set thresholds for sensor values.
+
+Features:
+- Configure threshold values
+- Trigger alerts when thresholds are exceeded
+- Alert notification panel
+- Alert history
+
+8. Role and Permission Management
+Admin can manage users and assign roles.
+
+Features:
+- Create operators
+- Assign operators to specific zones
+- Role-based access control
+
+9. Reporting System
+System automatically generates farm reports.
+
+Features:
+- View reports
+- Export reports
+- Download reports in PDF or CSV format
+- Report filters by time and zone
+
+10. AI Chatbot Assistant
+Integrated AI chatbot for system assistance.
+
+Features:
+- Help users interpret sensor data
+- Provide farm management suggestions
+- Answer system usage questions
+
+UI Screens to Generate:
+
+- Login page
+- Main dashboard
+- Zone overview page
+- Zone detail page
+- Device list page
+- Device detail page
+- Sensor monitoring page
+- Automation schedule page
+- Alert configuration page
+- Alert history page
+- User and role management page
+- Reports page with export button
+- AI chatbot interface
+- Settings page
+
+UX Requirements:
+
+- Left sidebar navigation
+- Top navigation bar with profile and notifications
+- Card-based dashboard widgets
+- Interactive charts and graphs
+- Status indicators for sensors and devices
+- Alert icons and notifications
+- Clean and intuitive user flow
+
+Generate a full UI design system including components such as:
+buttons, cards, charts, tables, toggles, modals, and navigation elements.
+
+The design should look like a professional SaaS IoT monitoring platform.
