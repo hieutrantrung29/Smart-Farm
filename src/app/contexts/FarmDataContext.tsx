@@ -22,7 +22,7 @@ import { toast } from 'sonner';
 //  CONFIG
 // ============================================================
 const AIO_USERNAME = "xamnhach";
-const AIO_KEY      = "aio_ybHl30sJ7mXIJIva1XZ0abwSelJ4";
+const AIO_KEY      = "aio_JpLc88HYr3e7JXUZOe4PeL3P8zJL";
 
 const GROUP_KEY = "farm";
 
