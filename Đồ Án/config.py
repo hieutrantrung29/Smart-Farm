@@ -1,6 +1,6 @@
 # Thông tin tài khoản Adafruit IO
 ADAFRUIT_IO_USERNAME = "xamnhach"
-ADAFRUIT_IO_KEY = "aio_ybHl30sJ7mXIJIva1XZ0abwSelJ4"
+ADAFRUIT_IO_KEY = "aio_JpLc88HYr3e7JXUZOe4PeL3P8zJL"
 
 # Cấu hình phần cứng
 COM_PORT = "COM3" 
