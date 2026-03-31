@@ -4,7 +4,7 @@ from Adafruit_IO import MQTTClient
 
 # --- CẤU HÌNH THÔNG TIN ---
 ADAFRUIT_IO_USERNAME = "xamnhach"
-ADAFRUIT_IO_KEY = "aio_ybHl30sJ7mXIJIva1XZ0abwSelJ4"
+ADAFRUIT_IO_KEY = "aio_JpLc88HYr3e7JXUZOe4PeL3P8zJL"
 
 # Biến lưu trạng thái giả lập
 current_pump = 0
